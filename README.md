@@ -1,1 +1,1 @@
-# Mecian Mythology
+# Mexican Mythology
