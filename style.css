@@ -1,0 +1,25 @@
+body {
+    
+    background-image: url(./images/aztec-bg.jpg);
+    text-align:center
+    
+}
+
+    text-align: center;
+}
+main { padding: 1348px 84px ;
+}
+
+h1 { 
+    font-family: ;
+}
+footer {
+    text-align: center;
+    font-style: italic;
+    font-size: 60px;
+    color: aliceblue;
+    background-color: #143642;
+    scroll-snap-align: 200px;
+    width: 2100px;
+    height: 500px;
+}
